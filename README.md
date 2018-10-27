@@ -5,4 +5,8 @@ Repositorio de códigos Java completados por los integrantes del **grupo de Apli
 
 - [ ] Más allá de un simple HolaMundo hecho en Java: un HolaMundo gigante
 
-- [ ] Uso de los operadores aritméticos: Una simulación de batalla pokemon
+- [ ] Uso de los operadores aritméticos: una simulación de batalla pokemon
+
+- [ ] Arreglos primera parte: alista tus 5 pokemons
+
+- [ ] Arreglos (y una matriz) segunda parte: alista solo a 3 pokemons
