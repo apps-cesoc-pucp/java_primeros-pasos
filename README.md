@@ -3,6 +3,6 @@ Repositorio de códigos Java completados por los integrantes del **grupo de Apli
 
 ## Lista de ejercicios:
 
-[ ] Más allá de un simple HolaMundo hecho en Java: un HolaMundo gigante
+- [ ] Más allá de un simple HolaMundo hecho en Java: un HolaMundo gigante
 
-[ ] Uso de los operadores aritméticos: Una simulación de batalla pokemon
+- [ ] Uso de los operadores aritméticos: Una simulación de batalla pokemon
