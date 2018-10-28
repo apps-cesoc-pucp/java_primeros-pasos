@@ -15,7 +15,7 @@ public class Main {
             String name = buffer.nextLine();
             equipo[i]=name;
         }
-        
+
         // TODO(3) coloca el codigo necesario dentro del bucle para IMPRIMIR los 5 nombres de los pokemons
         System.out.println("Tus pókemones son: ");
         for (int i=0; i<5; i++){
